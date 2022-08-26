@@ -9,5 +9,10 @@
 -Описание сюжета
 
 ## Скриншоты (Это черновой вариант):
-Главное меню
+Главное меню:
+
 ![Screenshot_1](https://user-images.githubusercontent.com/112184995/186930908-2ce02330-5332-4e1a-89f5-7eeb58281743.png)
+
+Меню выбора прошлого персонажа:
+
+![Screenshot_2](https://user-images.githubusercontent.com/112184995/186931385-ff93bc40-cf11-44af-ba35-9c996a84b4b6.png)
